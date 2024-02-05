@@ -78,5 +78,10 @@ sudo nginx -t
 sudo systemctl restart nginx
 ```
 
+## Setup https
+- ```nginx-https.conf```
+- ```curl -k "https://192.168.1.76:8080" "http://www.google.com" -v```
+- https://chat.openai.com/share/1db9485f-2bd3-409e-a0c2-bfd120e5c391
+
 
 
